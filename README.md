@@ -1,4 +1,4 @@
-# Twin Delayed Deep Deterministic Actor-Q (TD3AQ)
+# PAPPOLag
 
 PyTorch implementation of parameterized proximal policy optimization with Lagrangian method (PAPPOLag) algorithm.
 
