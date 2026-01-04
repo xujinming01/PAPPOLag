@@ -24,7 +24,7 @@ The core algorithm logic and custom environments are located in the `omnisafe/` 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/PAPPOLag.git](https://github.com/your-username/PAPPOLag.git)
+   git clone [https://github.com/xujinming01/PAPPOLag.git](https://github.com/xujinming01/PAPPOLag.git)
    cd PAPPOLag
    ```
 
