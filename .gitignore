@@ -160,14 +160,11 @@ cython_debug/
 .idea/
 
 # training results and tmp files
-runs/
 fig_paper/
 tmp.py
 test.m
 worknotes.html
 *.db
-deprecated/
-/mpc/to_be_deprecated/
 *.ilp
 *.lp
 *.asv

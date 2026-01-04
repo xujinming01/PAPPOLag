@@ -19,3 +19,6 @@ from omnisafe.envs.custom_env import CustomEnv
 from omnisafe.envs.mujoco_env import MujocoEnv
 from omnisafe.envs.safety_gymnasium_env import SafetyGymnasiumEnv
 from omnisafe.envs.safety_gymnasium_modelbased import SafetyGymnasiumModelBased
+
+from omnisafe.envs.safe_idd_env import SafeIDDEnv
+from omnisafe.envs.safe_coopt_env import SafeCOOPTEnv
