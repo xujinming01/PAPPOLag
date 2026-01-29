@@ -55,6 +55,10 @@ To evaluate a trained policy or visualize agent behavior, use the `evaluation.py
 python evaluation.py
 ```
 
+## Acknowledgements
+
+This implementation is based on [OmniSafe](https://github.com/PKU-Alignment/omnisafe) by the PKU-Alignment group. Special thanks to the original authors for their foundational work on safe reinforcement learning algorithms.
+
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
